@@ -778,6 +778,6 @@ body.dark-theme footer {
 /* Dark theme adjustments */
 body.dark-theme #downloadCvBtn {
   /* Ensure text color remains visible in dark theme */
-  color: white;
+  color:var(--secondary-color);
   background-color: #2a2a2a;
 }
