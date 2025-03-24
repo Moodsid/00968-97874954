@@ -740,7 +740,7 @@ body.dark-theme footer {
   }
 }
 
-@media (min-width: 769px) and (max-width: 1200px) {
+@media (min-width: 100px) and (max-width: 1200px) {
   .control-navbar {
     top: auto;
     bottom: 10px;
