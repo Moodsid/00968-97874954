@@ -802,5 +802,5 @@ body {
 /* Dark theme adjustments */
 body.dark-theme #downloadCvBtn {
   background-color: #2a2a2a;
-  color: white;
+  color:var(--secondary-color);
 }
