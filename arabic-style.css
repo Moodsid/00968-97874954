@@ -749,7 +749,7 @@ body.dark-theme footer {
     transform: translateX(50%); /* Changed from -50% to 50% for RTL */
     flex-direction: row;
     width: auto;
-    height: 50px;
+    height: 60px;
     padding: 0 4px;
     border-radius: 9px;
     direction: ltr; /* Ensure control navbar follows RTL */
