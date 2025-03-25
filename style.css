@@ -746,8 +746,8 @@ body.dark-theme footer {
     transform: translateX(-50%);
     flex-direction: row;
     width: auto;
-    height: 50px;
-    padding: 0 4px;
+    height: 60px;
+    padding: 0 9px;
     border-radius: 9px;
     direction: ltr;
     align-items: center;
